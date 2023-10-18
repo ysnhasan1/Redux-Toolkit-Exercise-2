@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    font-size: 40px;
+}
+
+div {
+    margin: 30px;
+}
+
+#detail-page-link {
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.homeValues {
+    font-weight: bold;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.react-icon {
+    cursor: pointer;
+}
+
+.react-icon:hover {
+    transform: scale(1.1);
+}
